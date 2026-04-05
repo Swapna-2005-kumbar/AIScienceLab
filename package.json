@@ -1,0 +1,13 @@
+{
+  "name": "ai-science-lab-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI Science Lab video generation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
